@@ -8,10 +8,10 @@
         {
             "dataDir": "%WORKSPACE%/temp",
             "repository": {
-                "uid": "5130cda7015c0921da1692ac63e02669",
+                "uid": "aec5527c8a43f79fa503cd8d977f2990",
                 "projectName": "githubdemo_jenkins",
                 "languages": [
-                    "CPP"
+                    "JAVA"
                 ],
                 "sources": {
                     "baseDir": "%WORKSPACE%",
