@@ -58,7 +58,13 @@
                             "rules": [],
                             "options": [
                                 {
-                                    "name": "reportDir",
+                                    "name": "binaryReportPath",
+                                    "type": "upload",
+                                    "value": "",
+                                    "required": false
+                                },
+                                {
+                                    "name": "xmlReportPath",
                                     "type": "upload",
                                     "value": "",
                                     "required": true
