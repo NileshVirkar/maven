@@ -52,7 +52,7 @@
                 ],
                 "coverage": [
                     {
-                        "name": "clover",
+                        "name": "jacoco",
                         "enabled": true,
                         "config": {
                             "rules": [],
